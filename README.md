@@ -1,4 +1,4 @@
-# Heroes Tracking API
+# Gadget-City 
 ## Description
 Heroes tracking API is a RESTful API that provides a way to get, update, create  and track heroes and their superpowers.
 ## Author 

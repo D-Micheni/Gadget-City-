@@ -13,14 +13,12 @@ Micheni Dennis
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 
-Clone the repository: [git clone https://github.com/D-Micheni/Superheroes]
+Clone the repository: [https://github.com/D-Micheni/Gadget-City-.git]
 
-Change Directory: [cd Superheroes]
+Change Directory: [cd Gadget-City]
 
-Bundle install to istall to install the necessary dependancies 
+npm install to install the necessary dependencies
 
-Open Postman to test the API endpoints or use the following link:
-    - http://localhost:3000/heros
     
 ## Endpoint
 

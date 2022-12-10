@@ -34,7 +34,7 @@ Change Directory: [cd Gadget-City]
 
 run npm install to install the required dependencies
 
- ## Back-end
+## Back-end
 - Utilized Ruby on Rails to rapidly develop and deploy application using MVC framework
 - Integrated Ruby on Rails’ ActiveRecord to perform database operations in an object-oriented fashion and represent associations between models
 - [Rails-Back-End](https://gadgets-production.up.railway.app/) 

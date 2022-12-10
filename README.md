@@ -1,6 +1,6 @@
 # Gadget-City 
 ## Description
-Heroes tracking API is a RESTful API that provides a way to get, update, create  and track heroes and their superpowers.
+Gadget-city is an e-commerce website that deals in EX-uk mobile and computer appliances, whwre a user can create an account, login, view all the available gadgets and modify a review
 ## Author 
 Dennis micheni
 ## Technologies

@@ -17,7 +17,7 @@ Clone the repository: [https://github.com/D-Micheni/Gadget-City-.git]
 
 Change Directory: [cd Gadget-City]
 
-npm install to install the necessary dependencies
+run npm install to install the required dependencies
 
     
 ## Endpoint

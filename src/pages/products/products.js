@@ -11,7 +11,7 @@ export default function Products({ user, setUser }) {
   let [all, setAll] = useState([]);
 
   function handleDelete() {
-    fetch("http://localhost:3000/logout", {
+    fetch("https://gadgets-production.up.railway.app/logout", {
       method: "DELETE",
       mode: "cors",
     }).then((res) => {
@@ -22,7 +22,7 @@ export default function Products({ user, setUser }) {
   }
 
   useEffect(() => {
-    fetch("http://localhost:3000/products")
+    fetch("https://gadgets-production.up.railway.app/products")
       .then((res) => res.json())
       .then((res) => {
         setProducts(res);
@@ -30,7 +30,7 @@ export default function Products({ user, setUser }) {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:3000/reviews")
+    fetch("https://gadgets-production.up.railway.app/reviews")
       .then((res) => res.json())
       .then((res) => {
         setAll(res);
@@ -70,7 +70,7 @@ export default function Products({ user, setUser }) {
 
   function handleReview(e) {
     e.preventDefault();
-    fetch("http://localhost:3000/reviews", {
+    fetch("https://gadgets-production.up.railway.app/reviews", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

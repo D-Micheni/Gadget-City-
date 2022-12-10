@@ -42,6 +42,8 @@ run npm install to install the required dependencies
 
 ## Endpoint
 ![Screenshot from 2022-12-10 14-55-59](https://user-images.githubusercontent.com/108609340/206854405-c48a7bac-874d-4e0d-bd04-d2c7458d08f4.png)
+![Screenshot from 2022-12-10 15-10-03](https://user-images.githubusercontent.com/108609340/206854449-14844c5f-3ab6-4325-9856-5d07c494bc1d.png)
+
 
 
 

@@ -28,7 +28,7 @@ Micheni Dennis
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 
-Clone the repository: (https://github.com/D-Micheni/Gadget-City-.git)
+Clone the repository: (git clone [https://github.com/D-Micheni/Gadget-City-.git])
 
 Change Directory: [cd Gadget-City]
 

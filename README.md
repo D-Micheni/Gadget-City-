@@ -2,7 +2,7 @@
 ## Description
 Gadget-city is an e-commerce website that deals in EX-uk mobile and computer appliances, whwre a user can create an account, login, view all the available gadgets and modify a review
 ## Author 
-Dennis micheni
+Micheni Dennis
 ## Technologies
 * Rails
 * Ruby

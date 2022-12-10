@@ -16,8 +16,15 @@ Micheni Dennis
 - View products
 - add a review
 - delete a review
-- logout
-- 
+- logout 
+
+## Default log in credentials
+    ```json
+    {
+    "username": "Den",
+    "password": "254"
+    }
+    
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 

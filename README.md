@@ -45,14 +45,10 @@ run npm install to install the required dependencies
 ![Screenshot from 2022-12-10 15-10-03](https://user-images.githubusercontent.com/108609340/206854449-14844c5f-3ab6-4325-9856-5d07c494bc1d.png)
 
 
-
-
-
-
-Contact Information
+### Contact Information
 Incase of any enquiries or contributions, be sure to email me at["dennis.michemi@student.moringaschool.com"]
 
-License
+## License
 
 MIT Licence
 

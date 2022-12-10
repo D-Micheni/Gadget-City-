@@ -1,6 +1,6 @@
 # Gadget-City 
 ## Description
-Gadget-city is an e-commerce website that sells EX-UK mobile and computer appliances. Users can create an account, login, view all available gadgets, and add and edit reviews.
+Gadget-city is an e-commerce website that sells EX-UK mobile and computer appliances. Users can create an account, login, view all available products, and add and edit reviews.
 ## Author 
 Micheni Dennis
 ## Technologies

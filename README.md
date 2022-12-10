@@ -10,6 +10,14 @@ Micheni Dennis
 *SQL
 * REACT Js
 * CSS
+
+## Front-end
+- Creat aaccount/login
+- View products
+- add a review
+- delete a review
+- logout
+- 
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 

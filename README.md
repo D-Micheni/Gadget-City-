@@ -28,16 +28,21 @@ Micheni Dennis
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 
-Clone the repository: [https://github.com/D-Micheni/Gadget-City-.git]
+Clone the repository: (https://github.com/D-Micheni/Gadget-City-.git)
 
 Change Directory: [cd Gadget-City]
 
 run npm install to install the required dependencies
 
-    
+ ## Back-end
+- Utilized Ruby on Rails to rapidly develop and deploy application using MVC framework
+- Integrated Ruby on Rails’ ActiveRecord to perform database operations in an object-oriented fashion and represent associations between models
+- [Rails-Back-End](https://gadgets-production.up.railway.app/) 
+
+
 ## Endpoint
 
-![Screenshot from 2022-12-05 14-58-22](https://user-images.githubusercontent.com/108609340/205635310-07ff4830-e1f8-4dcb-8249-db55c05749e5.png)
+
 
 
 
